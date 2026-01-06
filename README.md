@@ -164,8 +164,6 @@ ruff check .
 
 ---
 
----
-
 ## License
 
 MIT License. See `LICENSE`.
