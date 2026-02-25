@@ -1,6 +1,6 @@
 # OrbitLab — orbital mechanics & N‑body sandbox (with energy‑drift benchmarks)
 
-![CI](https://github.com/slavasavelyev/orbitlab/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/slavasavelyev/OrbitLab/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 OrbitLab is a small, **clean**, and **reproducible** physics sandbox:
