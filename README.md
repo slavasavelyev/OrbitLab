@@ -1,4 +1,5 @@
 # OrbitLab — orbital mechanics & N‑body sandbox (with energy‑drift benchmarks)
+https://zenodo.org/records/18154550
 
 ![CI](https://github.com/slavasavelyev/OrbitLab/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/license-MIT-green)
